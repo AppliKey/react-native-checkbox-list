@@ -1,0 +1,80 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "react-native-checkbox-list",
+        "scope": null,
+        "escapedName": "react-native-checkbox-list",
+        "name": "react-native-checkbox-list",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/Users/osash/Documents/repositories/аа"
+    ]
+  ],
+  "_from": "react-native-checkbox-list@latest",
+  "_id": "react-native-checkbox-list@0.0.6",
+  "_inCache": true,
+  "_location": "/react-native-checkbox-list",
+  "_nodeVersion": "6.10.3",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/react-native-checkbox-list-0.0.6.tgz_1502094432781_0.7874191517475992"
+  },
+  "_npmUser": {
+    "name": "applikey",
+    "email": "applikeytester@gmail.com"
+  },
+  "_npmVersion": "3.10.10",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "react-native-checkbox-list",
+    "scope": null,
+    "escapedName": "react-native-checkbox-list",
+    "name": "react-native-checkbox-list",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-checkbox-list/-/react-native-checkbox-list-0.0.6.tgz",
+  "_shasum": "c4cfbc2f466c6db6203843b9aa008452444d742c",
+  "_shrinkwrap": null,
+  "_spec": "react-native-checkbox-list",
+  "_where": "/Users/osash/Documents/repositories/аа",
+  "author": {
+    "name": "ApplikeySolutions"
+  },
+  "dependencies": {},
+  "description": "Simple checkbox list for your react native application.",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "c4cfbc2f466c6db6203843b9aa008452444d742c",
+    "tarball": "https://registry.npmjs.org/react-native-checkbox-list/-/react-native-checkbox-list-0.0.6.tgz"
+  },
+  "keywords": [
+    "checkbox",
+    "checkboxlist",
+    "react-native-checkbox-list",
+    "react-native"
+  ],
+  "license": "MIT",
+  "main": "src/checkBoxContainer.js",
+  "maintainers": [
+    {
+      "name": "applikey",
+      "email": "applikeytester@gmail.com"
+    }
+  ],
+  "name": "react-native-checkbox-list",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.0.6"
+}
